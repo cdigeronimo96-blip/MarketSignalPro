@@ -7,6 +7,7 @@ from datetime import datetime
 import pandas as pd
 import requests
 import streamlit as st
+import textwrap
 
 
 st.set_page_config(
