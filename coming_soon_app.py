@@ -390,8 +390,8 @@ html, body, [data-testid="stAppViewContainer"] {
 }
 
 .msp-brand-mark {
-    width: 44px;
-    height: 44px;
+    width: 60px;
+    height: 60px;
     display: block;
     object-fit: contain;
     filter: drop-shadow(0 8px 22px rgba(37,99,235,.32));
@@ -415,7 +415,7 @@ html, body, [data-testid="stAppViewContainer"] {
 .msp-brand-text {
     font-weight: 900;
     letter-spacing: -.8px;
-    font-size: clamp(21px, 2vw, 28px);
+    font-size: clamp(36px, 3.2vw, 42px);
     white-space: nowrap;
 }
 
